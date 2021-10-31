@@ -32,3 +32,4 @@ screen
 
 #US-west
 #./t-rex -a ethash -o stratum+tcp://us2.ethermine.org:4444 -u 0x82ecadfcec51863ffa044000e0ca8b4962b1849d -p x
+
